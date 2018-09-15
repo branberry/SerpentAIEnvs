@@ -29,6 +29,36 @@
             "config": {
                 "frame_handler": "PLAY"
             }
+        },
+        "SerpentZeroKGamePlugin": {
+            "name": "SerpentZeroKGamePlugin",
+            "version": "0.1.0",
+            "files": [
+                {
+                    "path": "serpent_ZeroK_game.py",
+                    "pluggable": "Game"
+                }
+            ],
+            "plugins": [],
+            "libraries": [],
+            "config": {
+                "fps": 2
+            }
+        },
+        "SerpentZeroKGameAgentPlugin": {
+            "name": "SerpentZeroKGameAgentPlugin",
+            "version": "0.1.0",
+            "files": [
+                {
+                    "path": "serpent_ZeroK_game_agent.py",
+                    "pluggable": "GameAgent"
+                }
+            ],
+            "plugins": [],
+            "libraries": [],
+            "config": {
+                "frame_handler": "PLAY"
+            }
         }
     }
 }

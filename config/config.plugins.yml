@@ -2,3 +2,7 @@ SerpentAgeOfMythologyGameAgentPlugin:
   frame_handler: PLAY
 SerpentAgeOfMythologyGamePlugin:
   fps: 2
+SerpentZeroKGameAgentPlugin:
+  frame_handler: PLAY
+SerpentZeroKGamePlugin:
+  fps: 2
